@@ -8,7 +8,7 @@
 
 <h2 align="center"> Основная часть</h2>
 
-### 1. Профиль: https://github.com/mrmacgood71
+### 1. Профиль: https://github.com/Switcherq
 
 
 ### 2. Сделать копию в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork)
@@ -33,6 +33,7 @@
 
 ![asdf](screenshots/Снимок2.JPG)
 <h4 align="center">Рисунок 5 - Создание файла через интерфейс Github</h4>
+
 ![asdf](screenshots/Снимок3.JPG)
 
 <h4 align="center">Рисунок 6 - Получение изменений</h4>
@@ -43,6 +44,7 @@
 
 <h4 align="center">Рисунок 7 - Получение истории операций</h4>
 ### 8. Просмотреть последние изменения.
+
 ![asdf](screenshots/Снимок6.JPG)
 
 <h4 align="center">Рисунок 8 - Просмотр последних изменений</h4>
